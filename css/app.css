@@ -32,6 +32,10 @@ a, .btn-link {
     outline: 1px solid red;
 }
 
+.padded-div {
+    padding: 20px;
+}
+
 .validation-message {
     color: red;
 }
